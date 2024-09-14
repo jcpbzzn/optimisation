@@ -70,6 +70,7 @@ On a high level, the solution is structured as follows:
 - [The Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem#:~:text=In%20the%20field%20of%20cryptography,exist%20with%20the%20same%20capacity.)
 - [Integer Programming: The Branch and Bound Method](https://web.tecnico.ulisboa.pt/mcasquilho/compute/_linpro/TaylorB_module_c.pdf)
 - [How to solve the Knapsack Problem with dynamic programming](https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf)
+- [Design and Analysis of Algorithms](https://www.cs.ox.ac.uk/files/13359/dynamic.pdf)
  
 
 
